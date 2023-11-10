@@ -1,0 +1,27 @@
+.nav-bg {
+  width: 45%;
+  overflow-y: scroll;
+  overflow: scroll;
+  overflow-wrap: normal;
+  height: 100vh;
+  color: #5da9e9;
+}
+
+.category-btn {
+  background-color: #5da9e9;
+  color: #ffffff;
+  width: 207px;
+  height: 42px;
+  border: none;
+  border-radius: 12px;
+}
+.btn {
+  color: #000000;
+  width: 207px;
+  height: 42px;
+  background: none;
+  border: none;
+}
+.navbar-content-con {
+  list-style-type: none;
+}
